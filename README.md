@@ -35,5 +35,5 @@ grunt test
 ## Build
 
 ```
-build
+grunt
 ```
