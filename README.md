@@ -25,3 +25,15 @@ Include in your page
 ## Usage
 
 *Coming soon!*
+
+## Tests
+
+```
+grunt test
+```
+
+## Build
+
+```
+build
+```
