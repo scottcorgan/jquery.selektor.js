@@ -3,6 +3,23 @@
   "version": "0.1.0",
   "description": "jQuery plugin for simple, styleable select dropdowns",
   "main": "jquery.selektor.js",
+  "homepage": "https://github.com/scottcorgan/jquery.selektor.js",
+  "dependencies" : {
+      "jquery" : ">= 1.9.x"
+  },
+  "keywords": [
+    "jquery",
+    "select",
+    "dropdown",
+    "css"
+  ],
+  "author" : {
+      "name" : "Scott Corgan",
+      "web"  : "http://github.com/scottcorgan"
+  },
+  "license": [
+      "http://www.opensource.org/licenses/mit-license.php"
+  ],
   "ignore": [
     "**/.*",
     "node_modules",
