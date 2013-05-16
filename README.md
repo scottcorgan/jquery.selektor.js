@@ -26,13 +26,21 @@ Include in your page
 
 *Coming soon!*
 
-## Tests
+## Tests and Builds
+
+Install dev dependencies
+
+```
+npm install
+```
+
+### Tests
 
 ```
 grunt test
 ```
 
-## Build
+### Builds
 
 ```
 grunt
