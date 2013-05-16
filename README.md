@@ -1,8 +1,12 @@
 # Selektor
 
-A jQuery plugin for simple, styleable select dropdowns
+A jQuery plugin for simple, styleable select dropdowns. Less than 1kb gzipped!
 
 ![](https://raw.github.com/chrisbarrett/skeletor/master/skeletor.jpg)
+
+## Demo
+
+*Coming soon!*
 
 ## Install
 
@@ -19,3 +23,5 @@ Include in your page
 ```
 
 ## Usage
+
+*Coming soon!*
